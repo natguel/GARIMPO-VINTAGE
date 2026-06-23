@@ -1,0 +1,6 @@
+{
+  "name": "Garimpo Vintage",
+  "description": "Garimpo e restauro de móveis antigos e esculturas autorais por Garimpo Vintage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
