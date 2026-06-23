@@ -27,7 +27,7 @@ export default function App() {
               <div className="relative order-2 md:order-1">
                 <div className="aspect-[3/4] overflow-hidden">
                   <img 
-                    src="/src/assets/images/hero_restoration_workshop_1782236210337.jpg" 
+                    src="/assets/images/hero_restoration_workshop_1782236210337.jpg" 
                     alt="Processo de restauro na Garimpo Vintage" 
                     className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
                     referrerPolicy="no-referrer"

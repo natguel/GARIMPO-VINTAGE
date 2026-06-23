@@ -24,21 +24,21 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Cristaleira Século XIX',
     category: 'restauro',
     description: 'Restauração completa de cristaleira em jacarandá, recuperação de verniz e metais originais.',
-    imageUrl: '/src/assets/images/restored_cabinet_detail_1782236223650.jpg',
+    imageUrl: '/assets/images/restored_cabinet_detail_1782236223650.jpg',
   },
   {
     id: '2',
     title: 'Fluidez em Mogno',
     category: 'escultura',
     description: 'Escultura abstrata esculpida à mão em bloco único de mogno recuperado.',
-    imageUrl: '/src/assets/images/modern_wood_sculpture_1782236234205.jpg',
+    imageUrl: '/assets/images/modern_wood_sculpture_1782236234205.jpg',
   },
   {
     id: '3',
     title: 'Poltrona Luís XV',
     category: 'restauro',
     description: 'Recuperação estrutural e acabamento manual em cera de abelha.',
-    imageUrl: '/src/assets/images/hero_restoration_workshop_1782236210337.jpg',
+    imageUrl: '/assets/images/hero_restoration_workshop_1782236210337.jpg',
   },
 ];
 

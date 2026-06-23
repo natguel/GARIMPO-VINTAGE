@@ -11,7 +11,7 @@ export function Hero() {
     <section id="inicio" className="relative h-screen flex items-center overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_restoration_workshop_1782236210337.jpg"
+          src="/assets/images/hero_restoration_workshop_1782236210337.jpg"
           alt="Workshop"
           className="w-full h-full object-cover brightness-50"
           referrerPolicy="no-referrer"
